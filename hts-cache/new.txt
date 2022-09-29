@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:55:25	5757/5757	---MCZ	200	added ('OK')	text/html	date:Thu,%2029%20Sep%202022%2016:55:02%20GMT	http://cloudflarepreview.com/preview-cpage?act=preview&target=cf-error:500s	C:/My%20Web%20Sites/cf/cloudflarepreview.com/preview-cpagef7f0.html	(from )
+18:55:26	114/114	---MCZ	404	error ('Not%20Found')	text/html	date:Thu,%2029%20Sep%202022%2016:55:02%20GMT	http://cloudflarepreview.com/robots.txt		(from )
